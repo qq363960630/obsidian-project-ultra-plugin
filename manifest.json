@@ -1,11 +1,11 @@
 {
-	"id": "sample-plugin",
-	"name": "Sample Plugin",
+	"id": "project-ultra-plugin",
+	"name": "Project Ultra Plugin",
 	"version": "1.0.0",
 	"minAppVersion": "0.15.0",
 	"description": "Demonstrates some of the capabilities of the Obsidian API.",
-	"author": "Obsidian",
-	"authorUrl": "https://obsidian.md",
+	"author": "liuguo",
+	"authorUrl": "https://github.com/qq363960630/obsidian-project-ultra-plugin",
 	"fundingUrl": "https://obsidian.md/pricing",
 	"isDesktopOnly": false
 }
